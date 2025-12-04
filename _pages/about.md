@@ -34,4 +34,4 @@ I am generally interested in various flavours of moduli stacks and derived categ
 
 **Research:**
 
-(2025) [Derived categories of Gushel-Mukai surfaces and Fano fourfolds of K3 type](https://arxiv.org/abs/2511.20324) (with Y. Prieto Montañez)
+(2025) [Derived categories of Gushel-Mukai surfaces and Fano fourfolds of K3 type](https://arxiv.org/abs/2511.20324) (with Y. Prieto Montañez).
