@@ -27,7 +27,7 @@ profile:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new # posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a Ph.D. student in the [Geometry and Mathematical Phisics](https://www.math.sissa.it/content/geometry-and-mathematical-physics) group at SISSA supervised by J. Alper and B. Fantechi. 
+I am a Ph.D. student in the [Geometry and Mathematical Physics](https://www.math.sissa.it/content/geometry-and-mathematical-physics) group at SISSA supervised by J. Alper and B. Fantechi. 
 I am generally interested in various flavours of moduli stacks and derived categories in algebraic geometry.
 
 [Here](https://sissa-my.sharepoint.com/:b:/g/personal/iselvagg_sissa_it/ER7mBPYRUflBjBKhb4AWQ34BGkFhVI3RZEZRYyNvolpk1g?e=2tXhd3) is a copy of my CV.
