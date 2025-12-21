@@ -32,6 +32,12 @@ I am generally interested in various flavours of moduli stacks and derived categ
 
 [Here](https://sissa-my.sharepoint.com/:b:/g/personal/iselvagg_sissa_it/ER7mBPYRUflBjBKhb4AWQ34BGkFhVI3RZEZRYyNvolpk1g?e=2tXhd3) is a copy of my CV.
 
-**Research:**
+**Research**
+
+Papers and preprints:
 
 (2025) [Derived categories of Gushel-Mukai surfaces and Fano fourfolds of K3 type](https://arxiv.org/abs/2511.20324) (with Y. Prieto Montañez).
+
+Posters:
+
+(2025) [Moduli of Stable Objects in a Linear Category](https://sissa-my.sharepoint.com/:b:/g/personal/iselvagg_sissa_it/IQDFquQ3NnPsRJaN0cBvqz8BAaYPy9GWok3esQj7vJ7xbms?e=p2PzSz) - Conférence finale de l'ANR FanoHK.
