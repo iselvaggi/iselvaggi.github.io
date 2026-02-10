@@ -36,7 +36,7 @@ I am generally interested in various flavours of moduli stacks and derived categ
 
 Papers and preprints:
 
-(2026) [The Chow Ring of the Hilbert Cube](https://arxiv.org/abs/2601.08399)
+(2026) [The Chow Ring of the Hilbert Cube](https://arxiv.org/abs/2601.08399) - submitted.
 
 (2025) [Derived categories of Gushel-Mukai surfaces and Fano fourfolds of K3 type](https://arxiv.org/abs/2511.20324) (with Y. Prieto-Montañez) - submitted.
 
