@@ -42,6 +42,3 @@ Papers and preprints:
 
 (2025) [Derived categories of Gushel-Mukai surfaces and Fano fourfolds of K3 type](https://arxiv.org/abs/2511.20324) (with Y. Prieto-Montañez) - submitted.
 
-Posters:
-
-(2025) [Moduli of Stable Objects in a Linear Category](https://sissa-my.sharepoint.com/:b:/g/personal/iselvagg_sissa_it/IQDFquQ3NnPsRJaN0cBvqz8BAaYPy9GWok3esQj7vJ7xbms?e=p2PzSz) - Conférence finale de l'ANR FanoHK.
