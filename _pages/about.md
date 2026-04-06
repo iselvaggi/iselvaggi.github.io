@@ -36,7 +36,7 @@ I am generally interested in various flavours of moduli stacks and derived categ
 
 Papers and preprints:
 
-(2026) [Deformations of locally constant stability conditions and good moduli spaces](https://arxiv.org/abs/2603.29053) - arXiv preprint.
+(2026) [Deformations of locally constant stability conditions and good moduli spaces](https://arxiv.org/abs/2603.29053) - submitted.
 
 (2026) [The Chow Ring of the Hilbert Cube](https://arxiv.org/abs/2601.08399) - submitted.
 
