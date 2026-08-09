@@ -30,7 +30,7 @@ profile:
 I am a Ph.D. student in the [Geometry and Mathematical Physics](https://www.math.sissa.it/content/geometry-and-mathematical-physics) group at SISSA supervised by J. Alper and B. Fantechi.<br>
 I am generally interested in various flavours of moduli stacks and derived categories in algebraic geometry.
 
-[Here]([https://drive.google.com/file/d/1JyyQLa1kZXQQQMK0d2rZUl1IRYuhza6g/view?usp=sharing]) is a copy of my CV.
+[Here](https://drive.google.com/file/d/1JyyQLa1kZXQQQMK0d2rZUl1IRYuhza6g/view?usp=sharing) is a copy of my CV.
 
 **Research**
 
